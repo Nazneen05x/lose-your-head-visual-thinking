@@ -13,6 +13,7 @@
 
 ## Beschrijving / Gebruik 📃
 
+> Bekijk hier de kennisclips pagina: https://lose-your-head-the-client-case-4x1u.vercel.app/kennisclips
 
 ## Kenmerken 🖇️
 
