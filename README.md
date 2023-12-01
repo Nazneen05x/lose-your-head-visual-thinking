@@ -13,7 +13,17 @@
 
 ## Kenmerken 🖇️
 
+<strong>`TOOLS 🧰`</strong>
+<ul>
+<li>VSCode</li>
+ </ul>
 
+<strong>`GEBRUIKTE TECHNIEKEN 🪚`</strong>
+<ul>
+<li>Svelte</li>
+<li>Html</li>
+<li>JavaScript</li>
+</ul>
 
 ## Installatie 🛠️
 
