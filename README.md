@@ -1,5 +1,8 @@
 
 # Kennisclips pagina
+<img width="600" alt="Scherm­afbeelding 2023-12-01 om 23 33 09" src="https://github.com/Nazneen05x/lose-your-head-visual-thinking/assets/112861261/374e1b83-d3ac-4aac-9245-7a98608b1623">
+
+
 
 ## Inhoudsopgave 📚
 
