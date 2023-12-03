@@ -13,6 +13,8 @@
 
 ## Beschrijving / Gebruik 📃
 
+Ik heb een kennisclips pagina gemaakt voor de kennisclips video's van Visual thinking. Op dit moment kun je alleen de kennisclip onderzoeken en begrijpen bekijken, in de toekomst kun je alle kennisclips video’s bekijken.
+
 > Bekijk hier de kennisclips pagina: https://lose-your-head-the-client-case-4x1u.vercel.app/kennisclips
 
 ## Kenmerken 🖇️
